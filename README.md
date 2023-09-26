@@ -21,6 +21,7 @@ Credit card fraud is a significant concern in today's digital world. This projec
 ## Dataset
 
 The dataset used for this project contains transaction records, including features like time, transaction amount, and various anonymized features (V1, V2, ..., V28). The target variable is "Class," where 0 represents legitimate transactions, and 1 represents fraudulent transactions.
+The dataset has been taken from kaggle , and here's the link to it - https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud/
 
 ## Installation
 
